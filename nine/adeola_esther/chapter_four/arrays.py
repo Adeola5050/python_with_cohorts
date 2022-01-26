@@ -3,7 +3,7 @@ listing=[
     ["Eggs","Oranges","Beans"], 
     ["Mangoes","Tomatoes" ,"Yams"]
 ]
-print('SN\t', 'listing\t', '\tposition')
+print('SN','listing','position')
 print(1, listing[0][0],  0, 0)
 print(2, listing[0][1],   0, 1)
 print(3, listing[0][2],  2, 0)
@@ -29,7 +29,7 @@ print(9,  listing[0][0],  0,  0 )
 print()
 
 
-print('SN\t', 'listing\t', '\tposition')
+print('SN','listing\t', '\tposition')
 print(1, listing[0][0],  0, 0)
 print(2, listing[1][1],   1, 1)
 print(3, listing[2][0],  2, 0)
