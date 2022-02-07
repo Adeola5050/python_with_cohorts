@@ -1,10 +1,13 @@
+<<<<<<< HEAD
          # Byte-compiled / optimized / DLL files
+=======
+          # Byte-compiled / optimized / DLL files
+>>>>>>> 3b9dceb9d085a3b3ec91c3651ab2e7c5e39bd8ad
 __pycache__/
 *.py[cod]
 *$py.class
 .idea/
 .gitignore
-
 # C extensions
 *.so
 
