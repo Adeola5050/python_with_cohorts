@@ -533,7 +533,7 @@ for dictionary in data:
 for i in a_list:
     print(i)
 
-print("================================")
+print("================================/.")
 
 
 for dictionary in data:
